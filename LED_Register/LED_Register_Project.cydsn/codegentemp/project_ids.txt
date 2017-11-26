@@ -1,0 +1,6 @@
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|35563307-3b34-4b04-81f5-648ceff339ec
+C:\Users\Administrator\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|0c7cbc3a-5ade-4a78-8dfa-4c074b7b3dbc
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|426d01fd-8f61-4e15-b085-be33fd23740d
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|f74f47b9-4d97-403f-b0c8-561c09941bcb
+D:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|0889bd82-137b-4e5e-b39a-7ceca200ec64
+C:\Users\Administrator\Desktop\LED_Register\LED_Register\LED_Register_Project.cydsn\LED_Register_Project.cyprj|a5dd0706-289d-41a0-821f-0fe81b746bef
